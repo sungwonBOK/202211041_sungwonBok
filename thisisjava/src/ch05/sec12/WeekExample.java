@@ -23,7 +23,12 @@ public class WeekExample {
 		
 		}
 		if(today == Week.SUNDAY) {
+			System.out.println(today);
+			System.out.println("일요일에는 축구를 합니다");
 			
+		}else {
+			System.out.println(today);
+			System.out.println("열심히 자바 공부합시다.");
 		}
 	}
 
