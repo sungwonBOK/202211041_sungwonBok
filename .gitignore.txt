@@ -1,0 +1,9 @@
+# Eclipse / Java IDE Generated Files
+.metadata/
+java_project/bin/
+java_project/.classpath
+java_project/.project
+java_project/.settings/
+# 기타 OS 생성 파일 (선택)
+*.class
+*.jar
